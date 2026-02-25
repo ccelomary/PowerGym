@@ -23,7 +23,7 @@ const trainers = [
     role: "Athletic Performance",
     bio: "Helps members improve speed, explosiveness, and overall athletic output.",
     image:
-      "https://images.unsplash.com/photo-1567013127542-490d757e6349?auto=format&fit=crop&w=900&q=80"
+      "https://images.unsplash.com/photo-1696564006617-1a85ba3a8f3e?auto=format&fit=crop&w=900&q=80"
   }
 ];
 
